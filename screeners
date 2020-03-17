@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<ol> <li>ADX/DMS</li>
+<li>ATR Bands</li>
+<li>ATR Trailing Stops</li>
+<li>Accumulation/Distribution</li>
+<li>Accumulative Swing Index</li>
+<li>Alligator</li>
+<li>Aroon</li>
+<li>Aroon Oscillator</li>
+<li>Average True Range</li>
+<li>Awesome Oscillator</li>
+<li>Balance of Power</li>
+<li>Bollinger %b</li>
+<li>Bollinger Bands</li>
+<li>Bollinger Bandwidth</li>
+<li>Center Of Gravity</li>
+<li>Chaikin Money Flow</li>
+<li>Chaikin Volatility</li>
+<li>Chande Forecast Oscillator</li>
+<li>Chande Momentum Oscillator</li>
+<li>Choppiness Index</li>
+<li>Commodity Channel Index</li>
+<li>Coppock Curve</li>
+<li>Correlation Coefficient</li>
+<li>Darvas Box</li>
+<li>Detrended Price Oscillator</li>
+<li>Disparity Index</li>
+<li>Donchian Channel</li>
+<li>Donchian Width</li>
+<li>Ease of Movement</li>
+<li>Ehler Fisher Transform</li>
+<li>Elder Force Index</li>
+<li>Elder Impulse System</li>
+<li>Elder Ray Index</li>
+<li>Fractal Chaos Bands</li>
+<li>Fractal Chaos Oscillator</li>
+<li>Gator Oscillator</li>
+<li>Gopalakrishnan Range Index</li>
+<li>High Low Bands</li>
+<li>High Minus Low</li>
+<li>Highest High Value</li>
+<li>Historical Volatility</li>
+<li>Ichimoku Clouds</li>
+<li>Intraday Momentum Index</li>
+<li>Keltner Channel</li>
+<li>Klinger Volume Oscillator</li>
+<li>Linear Reg Forecast</li>
+<li>Linear Reg Intercept</li>
+<li>Linear Reg R2</li>
+<li>Linear Reg Slope</li>
+<li>Lowest Low Value</li>
+<li>MACD</li>
+<li>Market Facilitation Index</li>
+<li>Mass Index</li>
+<li>Median Price</li>
+<li>Momentum Indicator</li>
+<li>Money Flow Index</li>
+<li>Moving Average</li>
+<li>Moving Average Deviation</li>
+<li>Moving Average Envelope</li>
+<li>Negative Volume Index</li>
+<li>On Balance Volume</li>
+<li>Open interest</li>
+<li>Parabolic SAR</li>
+<li>Pivot Points</li>
+<li>Positive Volume Index</li>
+<li>Pretty Good Oscillator</li>
+<li>Price Momentum Oscillator</li>
+<li>Price Oscillator</li>
+<li>Price Rate of Change</li>
+<li>Price Volume Trend</li>
+<li>Prime Number Bands</li>
+<li>Prime Number Oscillator</li>
+<li>Pring's Know Sure Thing</li>
+<li>Pring's Special K</li>
+<li>Psychological Line</li>
+<li>QStick</li>
+<li>RAVI</li>
+<li>RSI</li>
+<li>Rainbow Moving Average</li>
+<li>Rainbow Oscillator</li>
+<li>Random Walk Index</li>
+<li>Relative Vigor Index</li>
+<li>Relative Volatility</li>
+<li>STARC Bands</li>
+<li>Schaff Trend Cycle</li>
+<li>Shinohara Intensity Ratio</li>
+<li>Standard Deviation</li>
+<li>Stochastic Momentum Index</li>
+<li>Stochastics</li>
+<li>Supertrend</li>
+<li>Swing Index</li>
+<li>TRIX</li>
+<li>Time Series Forecast</li>
+<li>Trade Volume Index</li>
+<li>Trend Intensity Index</li>
+<li>True Range</li>
+<li>Twiggs Money Flow</li>
+<li>Typical Price</li>
+<li>Ulcer Index</li>
+<li>Ultimate Oscillator</li>
+<li>VWAP</li>
+<li>Valuation Lines</li>
+<li>Vertical Horizontal Filter</li>
+<li>Volume Chart</li>
+<li>Volume Oscillator</li>
+<li>Volume Profile</li>
+<li>Volume Rate of Change</li>
+<li>Volume Underlay</li>
+<li>Vortex Indicator</li>
+<li>Weighted Close</li>
+<li>Williams %R</li>
+<li>ZigZag</li>
+</ol>
+</body>
+</html>
